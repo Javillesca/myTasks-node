@@ -7,7 +7,6 @@ Comands:
   - app update  Update task status
   - app delete  Delete task
 
-
 * create:
     Generate a task to perform
     
