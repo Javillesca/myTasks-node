@@ -1,11 +1,11 @@
-
+# My Tasks
 At the beginning it is necessary to create the empty file 'data.json' in the directory 'db' and use the command ```npm install```
 
 Comands:
-  app create  Generate a task to perform
-  app show    Show the task list
-  app update  Update task status
-  app delete  Delete task
+  - app create  Generate a task to perform
+  - app show    Show the task list
+  - app update  Update task status
+  - app delete  Delete task
 
 
 * create:
